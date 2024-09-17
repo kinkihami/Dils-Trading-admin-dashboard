@@ -1,0 +1,237 @@
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/2854037974870281566"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/0:1723266681644549%ecd358c7ecd358c7"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/6471688717218166693"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/933538352109637986"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/1996331466755331539"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/346880945654871557"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/1112364704606944682"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/1694744258649394636"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/2146132208588679781"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/3846620034036370617"
+}
+inside cron jobinside cron job{
+  "name": "projects/notification-project-43bff/messages/1223066026749719180"
+}
+{
+  "name": "projects/notification-project-43bff/messages/279679975570368095"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/804760685784728838"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/6572718498419507134"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/8789936574634482806"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/143676370713222600"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/3440054663488193301"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/2440949361573236461"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/8560178872642100371"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/1790651242705885112"
+}
+inside cron jobinside cron jobinside cron job{
+  "name": "projects/notification-project-43bff/messages/1877046076097295650"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/7413153751122285737"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/771784927214720687"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/6331273653628912480"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/2813934939185502179"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/3896907998647448297"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/5927941737117395954"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/4839449213123207231"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/4097411899555935166"
+}
+inside cron job{
+  "name": "projects/notification-project-43bff/messages/4503209374873456799"
+}
+inside cron job{
+  "name": "projects/dilstradingapp-e4411/messages/0:1723547968406984%36ac968e36ac968e"
+}
+inside cron job{
+  "error": {
+    "code": 404,
+    "message": "Requested entity was not found.",
+    "status": "NOT_FOUND",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.firebase.fcm.v1.FcmError",
+        "errorCode": "UNREGISTERED"
+      }
+    ]
+  }
+}
+inside cron job{
+  "error": {
+    "code": 404,
+    "message": "Requested entity was not found.",
+    "status": "NOT_FOUND",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.firebase.fcm.v1.FcmError",
+        "errorCode": "UNREGISTERED"
+      }
+    ]
+  }
+}
+inside cron job{
+  "error": {
+    "code": 404,
+    "message": "Requested entity was not found.",
+    "status": "NOT_FOUND",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.firebase.fcm.v1.FcmError",
+        "errorCode": "UNREGISTERED"
+      }
+    ]
+  }
+}
+inside cron job{
+  "error": {
+    "code": 404,
+    "message": "Requested entity was not found.",
+    "status": "NOT_FOUND",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.firebase.fcm.v1.FcmError",
+        "errorCode": "UNREGISTERED"
+      }
+    ]
+  }
+}
+inside cron job{
+  "error": {
+    "code": 404,
+    "message": "Requested entity was not found.",
+    "status": "NOT_FOUND",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.firebase.fcm.v1.FcmError",
+        "errorCode": "UNREGISTERED"
+      }
+    ]
+  }
+}
+inside cron job{
+  "error": {
+    "code": 404,
+    "message": "Requested entity was not found.",
+    "status": "NOT_FOUND",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.firebase.fcm.v1.FcmError",
+        "errorCode": "UNREGISTERED"
+      }
+    ]
+  }
+}
+inside cron jobinside cron jobinside cron jobinside cron job{
+  "error": {
+    "code": 404,
+    "message": "Requested entity was not found.",
+    "status": "NOT_FOUND",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.firebase.fcm.v1.FcmError",
+        "errorCode": "UNREGISTERED"
+      }
+    ]
+  }
+}
+inside cron jobinside cron jobinside cron jobinside cron job{
+  "error": {
+    "code": 404,
+    "message": "Requested entity was not found.",
+    "status": "NOT_FOUND",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.firebase.fcm.v1.FcmError",
+        "errorCode": "UNREGISTERED"
+      }
+    ]
+  }
+}
+inside cron job{
+  "error": {
+    "code": 404,
+    "message": "Requested entity was not found.",
+    "status": "NOT_FOUND",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.firebase.fcm.v1.FcmError",
+        "errorCode": "UNREGISTERED"
+      }
+    ]
+  }
+}
+inside cron job{
+  "error": {
+    "code": 404,
+    "message": "Requested entity was not found.",
+    "status": "NOT_FOUND",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.firebase.fcm.v1.FcmError",
+        "errorCode": "UNREGISTERED"
+      }
+    ]
+  }
+}
+inside cron job{
+  "error": {
+    "code": 404,
+    "message": "Requested entity was not found.",
+    "status": "NOT_FOUND",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.firebase.fcm.v1.FcmError",
+        "errorCode": "UNREGISTERED"
+      }
+    ]
+  }
+}
+inside cron job

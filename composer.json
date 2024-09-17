@@ -1,0 +1,8 @@
+{
+    "name": "lenovo/dils_trading",
+    "license": "GPL-2.0-only",
+    "version": "5.2.1",
+    "require": {
+        "google/apiclient": "2.15.0"
+    }
+}
